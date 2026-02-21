@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    background: green;
+    height: 70px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+nav ul{
+    text-decoration: none;
+    color: white;
+    list-style: none;
+    gap: 30px;
+}
+nav ul li{
+    color: white;
+    text-decoration: none;
+    gap: 30px;
+}
